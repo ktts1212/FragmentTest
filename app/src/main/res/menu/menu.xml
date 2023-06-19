@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="首页"
+        android:icon="@drawable/ic_home"/>
+<!--        android:icon="@drawable/ic_home"-->
+
+
+    <item
+        android:id="@+id/shop"
+        android:title="购物"
+        android:icon="@drawable/shopping"/>
+<!--        android:icon="@drawable/shopping"-->
+
+    <item
+        android:id="@+id/publish"
+        android:title="发布"
+        android:icon="@drawable/pub"/>
+<!--        android:icon="@drawable/pub"-->
+
+    <item
+        android:id="@+id/message"
+        android:title="消息"
+        android:icon="@drawable/ic_message"/>
+<!--        android:icon="@drawable/ic_message"-->
+
+    <item
+        android:id="@+id/my"
+        android:title="我的"
+        android:icon="@drawable/ic_my"/>
+<!--        android:icon="@drawable/ic_my"-->
+
+</menu>
